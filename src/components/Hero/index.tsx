@@ -1,4 +1,4 @@
-import { Form, HeroContent, HeroTitle} from './HeroStyles'
+import { Form, HeroContent, HeroTitle } from './HeroStyles'
 
 const Hero = () => (
   <Form>
